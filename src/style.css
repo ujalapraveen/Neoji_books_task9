@@ -1,0 +1,49 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body {
+    background-color: #fef2f2;
+  }
+  h1 {
+    position: relative;
+    right: 6.5rem;
+    font-style: italic;
+    padding-top: 5rem;
+  }
+  p {
+    font-size: smaller;
+    position: relative;
+    right: 3rem;
+  }
+  button {
+    cursor: pointer;
+    border-radius: 0.6rem;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    background-color: lightsteelblue;
+    position: relative;
+    right: 4.5rem;
+  }
+  hr {
+    text-align: center;
+    width: 45%;
+    margin-left: 43rem;
+    margin-top: 1rem;
+  }
+  li {
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    margin: 1rem 0rem;
+    border: 1px solid lightsteelblue;
+    list-style: none;
+    width: 25%;
+    text-align: left;
+    margin-left: 23.5rem;
+    margin-right: 1.5rem;
+
+  
+  }
+  ul{
+    padding-left: 16%;
+  }
